@@ -1,0 +1,45 @@
+body
+{
+margin: 0;
+padding: 0;
+}
+
+.btn1,.btn2,.btn3,.btn4,.btn5
+{ 
+	font-family: arial;
+	text-transform: uppercase;
+	font-size: 30px;
+	width: 240px;
+	height: 60px;
+	border-radius: 80px;
+	line-height: 60px;
+	text-align: center;
+	border: 3px solid #009688;
+	text-decoration: none;
+	}
+
+.btn4{
+	position: fixed;
+	left: 10%;
+	top: 30%;
+}
+.btn5{
+	position: fixed;
+	left: 45%;
+	top: 50%;
+}
+.btn3{
+	position: fixed;
+	left: 45%;
+	top: 30%;
+}
+.btn2{
+	position: fixed;
+	left: 80%;
+	top: 30%;
+}
+.btn1{
+	position: fixed;
+	left: 45%;
+	top: 10%;
+}
